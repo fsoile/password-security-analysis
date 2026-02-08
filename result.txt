@@ -1,0 +1,15 @@
+Passwords Cracked:
+- qwerty
+- password
+- 123456 
+
+Passwords Not Cracked Within Test Window:
+- sixseven67
+- welcome1
+- Tennis552
+- Tr0ub4dor&3
+- C0mp!exP@ss9
+- 7Gh$Lk2!pQ9
+
+ Observation:
+    Common and short passwords were recovered almost instantly, while longer and more complex passwords resisted automated cracking attempts.  
